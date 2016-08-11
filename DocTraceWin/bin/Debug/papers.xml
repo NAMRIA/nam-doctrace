@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- all numbers in millimeters -->
+<papers>
+  <paper name="A4 #5221" width="210" height="297">
+    <locations>
+      <coordinate id="1" x="8" y="12" />
+      <coordinate id="2" x="60" y="12" />
+      <coordinate id="3" x="112" y="12" />
+      <coordinate id="4" x="164" y="12" />
+      <coordinate id="5" x="8" y="42" />
+      <coordinate id="6" x="60" y="42" />
+      <coordinate id="7" x="112" y="42" />
+      <coordinate id="8" x="164" y="42" />
+      <coordinate id="9" x="8" y="72" />
+      <coordinate id="10" x="60" y="72" />
+      <coordinate id="11" x="112" y="72" />
+      <coordinate id="12" x="164" y="72" />
+      <coordinate id="13" x="8" y="102" />
+      <coordinate id="14" x="60" y="102" />
+      <coordinate id="15" x="112" y="102" />
+      <coordinate id="16" x="164" y="102" />
+      <coordinate id="17" x="8" y="132" />
+      <coordinate id="18" x="60" y="132" />
+      <coordinate id="19" x="112" y="132" />
+      <coordinate id="20" x="164" y="132" />
+      <coordinate id="21" x="8" y="162" />
+      <coordinate id="22" x="60" y="162" />
+      <coordinate id="23" x="112" y="162" />
+      <coordinate id="24" x="164" y="162" />
+      <coordinate id="25" x="8" y="192" />
+      <coordinate id="26" x="60" y="192" />
+      <coordinate id="27" x="112" y="192" />
+      <coordinate id="28" x="164" y="192" />
+      <coordinate id="29" x="8" y="222" />
+      <coordinate id="30" x="60" y="222" />
+      <coordinate id="31" x="112" y="222" />
+      <coordinate id="32" x="164" y="222" />
+      <coordinate id="33" x="8" y="252" />
+      <coordinate id="34" x="60" y="252" />
+      <coordinate id="35" x="112" y="252" />
+      <coordinate id="36" x="164" y="252" />
+      <coordinate id="37" x="8" y="282" />
+      <coordinate id="38" x="60" y="282" />
+      <coordinate id="39" x="112" y="282" />
+      <coordinate id="40" x="164" y="282" />
+    </locations>
+  </paper>
+  <paper name="Custom (Single centered)" width="216" height="279">
+    <locations>
+      <coordinate id="1" x="89" y="49" />
+    </locations>
+  </paper>
+  <paper name="Zebra Barcode printer" width="51" height="13">
+    <locations>
+      <coordinate id="1" x="1" y="1" />
+    </locations>
+  </paper>
+</papers>

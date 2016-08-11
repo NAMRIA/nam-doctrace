@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <datasource>
+    <server name="3;0,34:,:,34" />
+    <database name="fmavpcag" />
+    <security login="fmavpcag" password="fmavpcag" />
+  </datasource>
+  <printing>
+    <paper name="Zebra Barcode printer" lastStripUsed="1" />
+    <printer default="Zebra GX430t - ZPL" />
+  </printing>
+</config>

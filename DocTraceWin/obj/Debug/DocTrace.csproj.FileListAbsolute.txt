@@ -1,0 +1,135 @@
+C:\Documents and Settings\Administrator\Desktop\DocTrace\bin\Debug\DocTrace.exe
+C:\Documents and Settings\Administrator\Desktop\DocTrace\bin\Debug\DocTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\DocTrace.FormMain.resources
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\DocTrace.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\DocTrace.exe
+C:\Documents and Settings\Administrator\Desktop\DocTrace\obj\Debug\DocTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\bin\Debug\DocTrace.exe
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\bin\Debug\DocTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\bin\Debug\PDFLibNet.dll
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.exe
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\DocTrace\DocTraceWin\obj\Debug\DocTrace.exe.licenses
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace [OCT 19 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\ghelo\Projects\DocTrace\DocTrace [OCT 26 2010]\DocTraceWin\bin\Debug\Microsoft.VisualBasic.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+E:\GHELO\Projects\DocTrace [NOV 02 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 03 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\DocTrace.exe
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\DocTrace.pdb
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\PDFLibNet.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\itextsharp.dll
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+D:\ghelo\Projects\DocTrace\DocTrace [NOV 25 2010]\DocTraceWin\bin\Debug\System.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\bin\Debug\DocTrace.exe
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\bin\Debug\DocTrace.pdb
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\bin\Debug\System.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.exe
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.pdb
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.csprojResolveAssemblyReference.cache
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 10 2014]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\DocTrace.exe
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\DocTrace.pdb
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\System.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.csprojResolveAssemblyReference.cache
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.FormMain.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.PrintDialogForm.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.Properties.Resources.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.ReprintDialogForm.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.VerifyForm.resources
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.csproj.GenerateResource.Cache
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.exe
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\obj\Debug\DocTrace.pdb
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\DocTrace.exe.config
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\zxing.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\Touchless.Vision.dll
+F:\ghelo\projects\doctrace\DocTrace [APR 14 2014]\DocTraceWin\bin\Debug\WebCamLib.dll
